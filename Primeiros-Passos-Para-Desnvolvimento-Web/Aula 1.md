@@ -1,4 +1,4 @@
-# Exercício final
+# Exercício Introdução ao Tema
 
 Qual foi o primeiro domínio criado?
 - O primeiro domínio registrado foi o symbolics.com, em 1985, por uma fabricante de computadores em Massachusetts, nos Estados Unidos. Nessa época, qualquer um poderia registrar um domínio gratuitamente
@@ -12,3 +12,6 @@ Qual foi a primeira compra feita pela internet?
 Qual o site mais antigo em atividade?
 - O mais velho, pertence a Agência de Projetos de Pesquisa Avançados de Defesa, parte do departamento de defesa americano. Esta foi a primeira organização a registrar um domínio na internet, que na época foi realizado em cinco categorias .net, .org, .gov, .edu, .mil e .arpa.
 Desses o domínio .mil ainda permanece ativo, o .net foi passado para outra organização e os demais foram desativados.
+
+
+
