@@ -5,4 +5,4 @@
 
 <h2>Portugol<h2>
 
-- Portugol não pe considerado uma linguagem de programação, ele é uma pseudo-linguagem utilizada na descrição de algoritimos.
+- Portugol não é considerado uma linguagem de programação, ele é uma pseudo-linguagem utilizada na descrição de algoritimos.
